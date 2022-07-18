@@ -1,0 +1,5 @@
+---
+applications:
+- name: nodemicroservice
+  random-route: true
+  memory: 512M
